@@ -109,5 +109,5 @@ Agora que o pacote tem um arquivo de manifesto e uma textura, você pode iniciar
 <h3>Importante</h3>
 <p><strong>Empilhamento de pacote</strong> é quando o conteúdo é carregado em cima do conteúdo vanilla, fazendo com que cada objeto que tenha o mesmo nome em ambos os pacotes seja sobrescrito pelo último pacote aplicado (em nosso exemplo, a textura Dirt é sobrescrita por nossa textura personalizada).</p>
 <br />
-<p>Se outro pacote que usa o arquivo dirt.png for carregado **após** HelloWorldBP, o Minecraft usará o último dirt.png aplicado.</p.>
+<p>Se outro pacote que usa o arquivo dirt.png for carregado <strong>após</strong> HelloWorldBP, o Minecraft usará o último dirt.png aplicado.</p>
 </blockquote>
