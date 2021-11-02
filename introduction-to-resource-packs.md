@@ -91,7 +91,10 @@ Agora você pode criar um padrão ou qualquer arte no editor. Neste exemplo, uma
 <blockquote>
 <h3>Importante</h3>
 
-Embora o MS Paint seja usado para este exemplo pelo seu acesso rápido e fácil, também existem algumas desvantagens.
-* O MS Paint não oferece suporte a canais alfa que são comumente usados ​​para efeitos de transparência no Minecraft.
-* O MS Paint não oferece suporte a tipos de arquivos .tga.
+<p>Embora o MS Paint seja usado para este exemplo pelo seu acesso rápido e fácil, também existem algumas desvantagens.</p>
+
+<ul>
+<li>O MS Paint não oferece suporte a canais alfa que são comumente usados ​​para efeitos de transparência no Minecraft.<li>
+<li>O MS Paint não oferece suporte a tipos de arquivos .tga.</li>
+</ul>
 </blockquote>
