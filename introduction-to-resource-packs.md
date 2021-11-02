@@ -83,4 +83,14 @@ Com o arquivo de manifesto concluído, agora você pode começar a adicionar con
 Agora que a estrutura de pastas foi criada, você pode colocar suas texturas personalizadas aqui. Um arquivo png também é fornecido para que você possa fazer o download e colocá-lo em sua pasta.
 <img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/resourcepack/dirt.png">
 * Abra um editor de imagens como o Paint3D, MS Paint ou Photoshop.
-* Na **barra de ferramentas**, selecione **Arquivo** e, em seguida, selecione Propriedades.
+* Na **barra de ferramentas**, selecione **Arquivo** e, em seguida, selecione **Propriedades**.
+* Defina a **largura** e a **altura** em **16 pixels** cada.
+
+Agora você pode criar um padrão ou qualquer arte no editor. Neste exemplo, uma cor de preenchimento simples foi adicionada.
+
+<h3>Importante</h3>
+<code>
+Embora o MS Paint seja usado para este exemplo pelo seu acesso rápido e fácil, também existem algumas desvantagens.
+* O MS Paint não oferece suporte a canais alfa que são comumente usados ​​para efeitos de transparência no Minecraft.
+* O MS Paint não oferece suporte a tipos de arquivos .tga.
+</code>
