@@ -1,7 +1,7 @@
 ## Introdução ao desenvolvimento de add-on para Bedrock Edition
 
 Complementos são o primeiro passo em nossa jornada para trazer níveis ainda maiores de personalização para o Minecraft: Bedrock Edition. Add-Ons permitem que os jogadores transformem a aparência de seus mundos e até mesmo mudem
-<img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/gettingstarted/getting-started.jpg">
+<img src="images/getting-started.jpg">
 
 Neste tutorial, você aprenderá o seguinte.
 
@@ -19,7 +19,7 @@ Para habilitar **Exibir Itens Ocultos**
 * Abra o **Explorador de arquivos** na barra de tarefas.
 * Selecione **Exibir > Opções > Alterar pasta e opções de pesquisa**.
 * Selecione a guia **Exibir** e, em **Configurações avançadas**, selecione **Mostrar arquivos, pastas e unidades ocultas** e OK.
-<img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/gettingstarted/viewhiddenfolders.png">
+<img src="images/viewhiddenfolders.png">
 
 ## Localizando com.mojang
 * Pressione **Win + R** para abrir *"Executar**. Como alternativa, você pode iniciar **Executar** no menu inicial.
@@ -28,7 +28,7 @@ Para habilitar **Exibir Itens Ocultos**
 * Pressione **OK**.
 
 Conforme mostrado na imagem abaixo, existem vários subdiretórios localizados na pasta com.mojang.
-<img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/gettingstarted/commojang.png">
+<img src="images/commojang.png">
 ```
 Se você vir mais conteúdo nesta pasta do que o mostrado acima, não entre em pânico! Esta imagem mostra uma nova instalação do Minecraft.
 ```
