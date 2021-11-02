@@ -119,7 +119,7 @@ Como a textura personalizada é chamada de dirt.png, a textura será usada em ca
 * Clique nos **pacotes de recursos** para ver todos os pacotes disponíveis.
 * Em todos os pacotes, selecione **HelloWorldRP** para adicionar o pacote ao mundo.
 * **Inicie** o seu mundo.
-<img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/resourcepack/addonsettings.png">
+<img src="images/addonsettings.png">
 
 ## Qual é o próximo?
 Com uma textura personalizada agora parte do seu mundo Minecraft, agora é hora de olhar os pacotes de comportamento e como você pode alterar os comportamentos de entidade existentes. Na próxima seção, você aprenderá como adicionar um comportamento agressivo a uma entidade de vaca normalmente pacífica.
