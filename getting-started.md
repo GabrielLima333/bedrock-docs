@@ -79,3 +79,6 @@ Alternativamente, se você gostaria de começar com comandos no Minecraft, vá p
     </td>
   </tr>
 </table>
+
+## Atenção
+Este site não é afiliado da Mojang Studios ou da Microsoft de forma alguma.
