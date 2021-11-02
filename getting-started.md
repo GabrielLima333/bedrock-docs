@@ -1,4 +1,9 @@
 ## Introdução ao desenvolvimento de add-on para Bedrock Edition
+### Neste artigo
+* [com.mojang](#commojang)
+* [Visual Code Studio](#visual-studio-code)
+* [Extensões do Visual Code Studio](#instalando-visual-studio-code)
+* [Qual é o próximo?](#qual-é-o-próximo)
 
 Complementos são o primeiro passo em nossa jornada para trazer níveis ainda maiores de personalização para o Minecraft: Bedrock Edition. Add-Ons permitem que os jogadores transformem a aparência de seus mundos e até mesmo mudem
 <img src="images/getting-started.jpg">
