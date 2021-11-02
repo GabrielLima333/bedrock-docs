@@ -22,7 +22,7 @@ Para habilitar **Exibir Itens Ocultos**
 <img src="images/viewhiddenfolders.png">
 
 ## Localizando com.mojang
-* Pressione **Win + R** para abrir *"Executar**. Como alternativa, você pode iniciar **Executar** no menu inicial.
+* Pressione **Win + R** para abrir **Executar**. Como alternativa, você pode iniciar **Executar** no menu inicial.
 * Copie e cole o seguinte:
 `%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang`
 * Pressione **OK**.
