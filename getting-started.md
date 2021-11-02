@@ -58,7 +58,7 @@ O Visual Studio Code oferece suporte a extensões criadas pela comunidade de des
 
 ## Qual é o próximo?
 Agora que seu ambiente de desenvolvimento está configurado, você pode começar a criar seu primeiro complemento aprendendo mais sobre pacotes de recursos.
-* <href="introduction-to-resource-packs">Pacotes de Recursos</a>
+* <a href="introduction-to-resource-packs">Pacotes de Recursos</a>
 
 Alternativamente, se você gostaria de começar com comandos no Minecraft, vá para Introdução aos blocos de comando para aprender como usar blocos de comando para encadear diferentes comandos.
 
