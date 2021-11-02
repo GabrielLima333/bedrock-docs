@@ -59,7 +59,10 @@ Como o arquivo é escrito em JSON, o Minecraft será capaz de analisar as inform
 	]
 }
 ```
-Para `format_version`, `2` é usado como o valor para o arquivo manifest.json. Enquanto `"1.16.0"` ou `[1.16.0]` são usados ​​em arquivos de manifesto vanilla, é recomendado usar o `"format_version": 2` mais recente para conteúdo personalizado.
+<blockquote>
+<h3>Nota</h3>
+<p>Para <code>format_version</code>, <code>2</code> é usado como o valor para o arquivo manifest.json. Enquanto <code>"1.16.0"</code> ou </code>[1.16.0]<code> são usados ​​em arquivos de manifesto vanilla, é recomendado usar o <code>"format_version": 2</code> mais recente para conteúdo personalizado.</p>
+</blockquote>
 
 ## UUID
 Identificador universalmente exclusivo, ou UUID por curtos, é um número único usado para identificar diferentes softwares. Para Minecraft, o UUID é usado para definir um pacote específico e evitar que qualquer software duplicado cause problemas. Para cabeçalho e módulos, precisará haver 2 diferentes números UUID inseridos entre as cotações. Você pode usar um gerador on-line de UUID, como o <a href="https://www.uuidgenerator.net/">UUID Generator</a>.
@@ -95,4 +98,16 @@ Agora você pode criar um padrão ou qualquer arte no editor. Neste exemplo, uma
 <li>O MS Paint não oferece suporte a canais alfa que são comumente usados ​​para efeitos de transparência no Minecraft.</li>
 <li>O MS Paint não oferece suporte a tipos de arquivos .tga.</li>
 </ul>
+</blockquote>
+* Quando terminar com sua textura, selecione *Arquivo* e, em seguida, selecione *Salvar* como *PNG*.
+* Navegue até a pasta **blocks**.
+* Salve o arquivo como **dirt.png**.
+
+## Testando o pacote
+Agora que o pacote tem um arquivo de manifesto e uma textura, você pode iniciar o Minecraft e testar seu novo complemento.
+<blockquote>
+<h3>Importante</h3>
+<p><strong>Empilhamento de pacote</strong> é quando o conteúdo é carregado em cima do conteúdo vanilla, fazendo com que cada objeto que tenha o mesmo nome em ambos os pacotes seja sobrescrito pelo último pacote aplicado (em nosso exemplo, a textura Dirt é sobrescrita por nossa textura personalizada).</p>
+<br />
+<p>Se outro pacote que usa o arquivo dirt.png for carregado **após** HelloWorldBP, o Minecraft usará o último dirt.png aplicado.</p.>
 </blockquote>
