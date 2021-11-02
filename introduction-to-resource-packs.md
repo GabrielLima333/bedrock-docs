@@ -1,4 +1,9 @@
 ## Introdução aos pacotes de recursos
+### Neste artigo
+* [Construindo o Pacote de Recursos](#construindo-o-pacote-de-recursos)
+* [Mudando o bloco de terra](#mudando-o-bloco-de-terra)
+* [Qual é o próximo?](#qual-é-o-próximo)
+
 Antes de construir seu primeiro Add-On, você precisará criar um pacote para adicionar qualquer conteúdo personalizado no Minecraft: Bedrock Edition. Existem dois tipos de pacotes que um criador pode fazer: pacotes de recursos e de comportamento. Um **pacote de recursos** é uma estrutura de pastas que conterá todos os seus modelos personalizados, sons, texturas e qualquer conteúdo personalizado criado. pacotes de recursos são comumente usados ​​para adicionar conteúdo gerado pelo usuário ao Minecraft, a fim de aumentar a experiência do jogador.
 <img src="images/introduction-to-resource-packs.jpg">
 Neste tutorial, você aprenderá o seguinte:
