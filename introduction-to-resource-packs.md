@@ -111,3 +111,36 @@ Agora que o pacote tem um arquivo de manifesto e uma textura, você pode iniciar
 <br />
 <p>Se outro pacote que usa o arquivo dirt.png for carregado <strong>após</strong> HelloWorldBP, o Minecraft usará o último dirt.png aplicado.</p>
 </blockquote>
+Como a textura personalizada é chamada de dirt.png, a textura será usada em cada bloco de terra do jogo.
+* Inicie o Minecraft.
+* Quando o Minecraft for lançado e chegar ao menu principal, selecione **Jogar**.
+* Selecione **Criar um novo mundo**.
+* Em **Configurações**, role para baixo até a seção **Add-On**.
+* Clique nos **pacotes de recursos** para ver todos os pacotes disponíveis.
+* Em todos os pacotes, selecione **HelloWorldRP** para adicionar o pacote ao mundo.
+* **Inicie** o seu mundo.
+<img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/resourcepack/addonsettings.png">
+
+## Qual é o próximo?
+Com uma textura personalizada agora parte do seu mundo Minecraft, agora é hora de olhar os pacotes de comportamento e como você pode alterar os comportamentos de entidade existentes. Na próxima seção, você aprenderá como adicionar um comportamento agressivo a uma entidade de vaca normalmente pacífica.
+
+## Criadores
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MokuseiDev">
+        <img src="https://avatars.githubusercontent.com/u/93236936?v=4" width="100px;" alt=""/><br />
+       <sub><b>Mokusei</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GabrielAplok">
+        <img src="https://avatars.githubusercontent.com/u/49401038?v=4" width="100px;" alt=""/><br />
+       <sub><b>Gabriel Aplok</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Atenção
+Este site não é afiliado da Mojang Studios ou da Microsoft de forma alguma.
