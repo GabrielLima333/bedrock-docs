@@ -52,18 +52,18 @@ Junto com as 3 pastas de pacotes, também existem versões de desenvolvimento de
 ```
 
 ## Visual Studio Code
-Siga o link aqui para instalar o <a href="https://code.visualstudio.com/Download">Visual Studio Code</a>
+Siga o link aqui para instalar o [Visual Studio Code](https://code.visualstudio.com/Download)
 
 ## Instalando Visual Studio Code
 O Visual Studio Code oferece suporte a extensões criadas pela comunidade de desenvolvedores do Visual Studio Code. As extensões são uma ótima maneira de ajudar a escrever e entender a sintaxe do Minecraft ao trabalhar em pacotes de recursos e comportamentos.
 
 ## Instalando extensões
-* Clique no link fornecido para baixar <a href="https://marketplace.visualstudio.com/items?itemName=destruc7i0n.vscode-bedrock-definitions">Definições de Bedrock</a> para Visual Studio Code.
-* Clique no link fornecido para baixar o <a href="https://marketplace.visualstudio.com/items?itemName=BlockceptionLtd.blockceptionvscodeminecraftbedrockdevelopmentextension">Minecraft Bedrock Development</a> para Visual Studio Code da Blockception.
+* Clique no link fornecido para baixar [Definições de Bedrock](https://marketplace.visualstudio.com/items?itemName=destruc7i0n.vscode-bedrock-definitions) para Visual Studio Code.
+* Clique no link fornecido para baixar [Desenvolvimento do Minecraft Bedrock](https://marketplace.visualstudio.com/items?itemName=BlockceptionLtd.blockceptionvscodeminecraftbedrockdevelopmentextension) para Visual Studio Code da Blockception.
 
 ## Qual é o próximo?
 Agora que seu ambiente de desenvolvimento está configurado, você pode começar a criar seu primeiro complemento aprendendo mais sobre pacotes de recursos.
-* <a href="introduction-to-resource-packs">Pacotes de Recursos</a>
+* [Pacotes de Recursos](introduction-to-resource-packs)
 
 Alternativamente, se você gostaria de começar com comandos no Minecraft, vá para Introdução aos blocos de comando para aprender como usar blocos de comando para encadear diferentes comandos.
 
