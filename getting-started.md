@@ -1,4 +1,4 @@
-# Introdução ao desenvolvimento de add-on para Bedrock Edition
+## Introdução ao desenvolvimento de add-on para Bedrock Edition
 
 Complementos são o primeiro passo em nossa jornada para trazer níveis ainda maiores de personalização para o Minecraft: Bedrock Edition. Add-Ons permitem que os jogadores transformem a aparência de seus mundos e até mesmo mudem
 <img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/gettingstarted/getting-started.jpg">
@@ -54,10 +54,28 @@ O Visual Studio Code oferece suporte a extensões criadas pela comunidade de des
 
 ## Instalando extensões
 * Clique no link fornecido para baixar <a href="https://marketplace.visualstudio.com/items?itemName=destruc7i0n.vscode-bedrock-definitions">Definições de Bedrock</a> para Visual Studio Code.
-* Clique no link fornecido para baixar o <href="https://marketplace.visualstudio.com/items?itemName=BlockceptionLtd.blockceptionvscodeminecraftbedrockdevelopmentextension">Minecraft Bedrock Development</a> para Visual Studio Code da Blockception.
+* Clique no link fornecido para baixar o <a href="https://marketplace.visualstudio.com/items?itemName=BlockceptionLtd.blockceptionvscodeminecraftbedrockdevelopmentextension">Minecraft Bedrock Development</a> para Visual Studio Code da Blockception.
 
 ## Qual é o próximo?
 Agora que seu ambiente de desenvolvimento está configurado, você pode começar a criar seu primeiro complemento aprendendo mais sobre pacotes de recursos.
 
 
 Alternativamente, se você gostaria de começar com comandos no Minecraft, vá para Introdução aos blocos de comando para aprender como usar blocos de comando para encadear diferentes comandos.
+
+## Creators
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MokuseiDev">
+        <img src="https://avatars.githubusercontent.com/u/93236936?v=4" width="100px;" alt=""/><br />
+       <sub><b>Mokusei</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GabrielAplok">
+        <img src="https://avatars.githubusercontent.com/u/49401038?v=4" width="100px;" alt=""/><br />
+       <sub><b>Gabriel Aplok</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
