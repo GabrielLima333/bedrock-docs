@@ -1,6 +1,6 @@
 ## Introdução aos pacotes de recursos
 Antes de construir seu primeiro Add-On, você precisará criar um pacote para adicionar qualquer conteúdo personalizado no Minecraft: Bedrock Edition. Existem dois tipos de pacotes que um criador pode fazer: pacotes de recursos e de comportamento. Um **pacote de recursos** é uma estrutura de pastas que conterá todos os seus modelos personalizados, sons, texturas e qualquer conteúdo personalizado criado. pacotes de recursos são comumente usados ​​para adicionar conteúdo gerado pelo usuário ao Minecraft, a fim de aumentar a experiência do jogador.
-<img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/resourcepack/introduction-to-resource-packs.jpg">
+<img src="images/introduction-to-resource-packs.jpg">
 Neste tutorial, você aprenderá o seguinte:
 * Entenda como um **pacote de recursos** é criado.
 * Como um **arquivo de manifesto** é criado.
@@ -21,7 +21,7 @@ Clique duas vezes na pasta **development_resource_packs**.
 * Clique com o botão direito na janela do Explorador de Arquivos e selecione **Novo** e depois **Pasta** para criar uma nova pasta.
 * Nomeie a nova pasta como **HelloWorldRP**.
 * Clique duas vezes em **HelloWorldRP**!para abrir a pasta.
-<img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/resourcepack/helloworldrp.png">
+<img src="images/helloworldrp.png">
 
 ## O arquivo de manifesto
 Para carregar um pacote de recursos no Minecraft, um arquivo de manifesto precisará ser gerado. O arquivo de manifesto é um arquivo JSON que contém as seguintes informações;
@@ -36,7 +36,7 @@ Como o arquivo é escrito em JSON, o Minecraft será capaz de analisar as inform
 * Clique com o botão direito do mouse na janela do Explorer e selecione **Novo** e, em seguida, selecione **Documento de texto**.
 * Defina o nome como **manifest.json**.
  a. Você precisará alterar a extensão do arquivo de .txt para .json. Se a janela do Explorer não mostrar extensões de arquivo, você pode habilitar **Extensões** de **nome de arquivo** na guia **Exibir**.
- <img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/resourcepack/manifest_file.png">
+ <img src="images/manifest_file.png">
 * Clique duas vezes em **manifest.json** para abri-lo em um Editor de Texto.
 * Copie/cole o seguinte trecho de código em seu editor de texto.
 
@@ -66,7 +66,7 @@ Como o arquivo é escrito em JSON, o Minecraft será capaz de analisar as inform
 
 ## UUID
 Identificador universalmente exclusivo, ou UUID por curtos, é um número único usado para identificar diferentes softwares. Para Minecraft, o UUID é usado para definir um pacote específico e evitar que qualquer software duplicado cause problemas. Para cabeçalho e módulos, precisará haver 2 diferentes números UUID inseridos entre as cotações. Você pode usar um gerador on-line de UUID, como o <a href="https://www.uuidgenerator.net/">UUID Generator</a>.
-<img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/%5CMedia%5CBehaviorPack%5CUUID.png">
+<img src="images/%5CMedia%5CBehaviorPack%5CUUID.png">
 * Copie e cole um UUID na seção do cabeçalho.  O UUID precisará ser colado entre aspas ("") para ser lido corretamente.
 * Recarregue a página da web para gerar um novo UUID para uso na seção Módulos.
 * Copie e cole o novo UUID na seção de módulos entre as aspas.
@@ -80,7 +80,7 @@ Com o arquivo de manifesto concluído, agora você pode começar a adicionar con
 * Clique com o botão direito e selecione *Novo* e selecione *Pasta*.
 * Renomeie a pasta para **blocks**.
 * Clique duas vezes na pasta **blocks**.
-<img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/resourcepack/blocks_folder.png">
+<img src="images/blocks_folder.png">
 
 ## Criando a textura
 Agora que a estrutura de pastas foi criada, você pode colocar suas texturas personalizadas aqui. Um arquivo png também é fornecido para que você possa fazer o download e colocá-lo em sua pasta.
