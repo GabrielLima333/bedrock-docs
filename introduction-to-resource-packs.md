@@ -88,9 +88,10 @@ Agora que a estrutura de pastas foi criada, você pode colocar suas texturas per
 
 Agora você pode criar um padrão ou qualquer arte no editor. Neste exemplo, uma cor de preenchimento simples foi adicionada.
 
+<blockquote>
 <h3>Importante</h3>
-<code>
+
 Embora o MS Paint seja usado para este exemplo pelo seu acesso rápido e fácil, também existem algumas desvantagens.
 * O MS Paint não oferece suporte a canais alfa que são comumente usados ​​para efeitos de transparência no Minecraft.
 * O MS Paint não oferece suporte a tipos de arquivos .tga.
-</code>
+</blockquote>
