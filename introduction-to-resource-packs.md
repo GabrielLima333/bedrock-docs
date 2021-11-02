@@ -61,7 +61,7 @@ Como o arquivo é escrito em JSON, o Minecraft será capaz de analisar as inform
 ```
 <blockquote>
 <h3>Nota</h3>
-<p>Para <code>format_version</code>, <code>2</code> é usado como o valor para o arquivo manifest.json. Enquanto <code>"1.16.0"</code> ou </code>[1.16.0]<code> são usados ​​em arquivos de manifesto vanilla, é recomendado usar o <code>"format_version": 2</code> mais recente para conteúdo personalizado.</p>
+<p>Para <code>format_version</code>, <code>2</code> é usado como o valor para o arquivo manifest.json. Enquanto <code>"1.16.0"</code> ou <code>[1.16.0]</code> são usados ​​em arquivos de manifesto vanilla, é recomendado usar o <code>"format_version": 2</code> mais recente para conteúdo personalizado.</p>
 </blockquote>
 
 ## UUID
