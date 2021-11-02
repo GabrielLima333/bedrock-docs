@@ -66,7 +66,7 @@ Como o arquivo é escrito em JSON, o Minecraft será capaz de analisar as inform
 
 ## UUID
 Identificador universalmente exclusivo, ou UUID por curtos, é um número único usado para identificar diferentes softwares. Para Minecraft, o UUID é usado para definir um pacote específico e evitar que qualquer software duplicado cause problemas. Para cabeçalho e módulos, precisará haver 2 diferentes números UUID inseridos entre as cotações. Você pode usar um gerador on-line de UUID, como o <a href="https://www.uuidgenerator.net/">UUID Generator</a>.
-<img src="images/%5CMedia%5CBehaviorPack%5CUUID.png">
+<img src="images/_Media_BehaviorPack_UUID.png">
 * Copie e cole um UUID na seção do cabeçalho.  O UUID precisará ser colado entre aspas ("") para ser lido corretamente.
 * Recarregue a página da web para gerar um novo UUID para uso na seção Módulos.
 * Copie e cole o novo UUID na seção de módulos entre as aspas.
