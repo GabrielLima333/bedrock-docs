@@ -42,22 +42,45 @@ Como o arquivo é escrito em JSON, o Minecraft será capaz de analisar as inform
 
 ```js
 {
-	  "format_version": 2,
-	  "header": {
-        "description": "My First Add-On!",
-	    "name": "Hello WorldRP",
-	    "uuid":"",
-	    "version": [1, 0, 0],
-	    "min_engine_version": [1, 16, 0]
-	  },
-	  "modules": [
-	    {
-	      "description": "My First Add-On!",
-	      "type": "resources",
-	      "uuid": "",
-	      "version": [1, 0, 0]
-	    }
-	  ]
-	}
+	"format_version": 2,
+	"header": {
+		"name": "Hello WorldRP",
+		"description": "Meu primeiro add-on!",
+		"uuid": "1e31540c-92d1-4103-8e90-c0b0119f982b",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "fca72eb1-cfb5-4ee6-8b26-894f3b627ecb",
+			"version": [1, 0, 0]
+		}
+	]
+}
 ```
 Para `format_version`, `2` é usado como o valor para o arquivo manifest.json. Enquanto `"1.16.0"` ou `[1.16.0]` são usados ​​em arquivos de manifesto vanilla, é recomendado usar o `"format_version": 2` mais recente para conteúdo personalizado.
+
+## UUID
+Identificador universalmente exclusivo, ou UUID por curtos, é um número único usado para identificar diferentes softwares. Para Minecraft, o UUID é usado para definir um pacote específico e evitar que qualquer software duplicado cause problemas. Para cabeçalho e módulos, precisará haver 2 diferentes números UUID inseridos entre as cotações. Você pode usar um gerador on-line de UUID, como o <a href="https://www.uuidgenerator.net/">UUID Generator</a>.
+<img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/%5CMedia%5CBehaviorPack%5CUUID.png">
+* Copie e cole um UUID na seção do cabeçalho.  O UUID precisará ser colado entre aspas ("") para ser lido corretamente.
+* Recarregue a página da web para gerar um novo UUID para uso na seção Módulos.
+* Copie e cole o novo UUID na seção de módulos entre as aspas.
+* Salve o arquivo de manifesto.
+
+## Mudando o bloco de terra
+Com o arquivo de manifesto concluído, agora você pode começar a adicionar conteúdo personalizado ao Minecraft. Vamos começar aplicando uma nova textura ao bloco de terra vanilla.
+* No Explorador de Arquivos, na pasta **HelloWorldRP**, clique com o botão direito e selecione **Novo** e selecione **Pasta**.
+* Renomeie a pasta para **textures**.
+* Clique duas vezes na pasta de **textures*".
+* Clique com o botão direito e selecione *Novo* e selecione *Pasta*.
+* Renomeie a pasta para **blocks**.
+* Clique duas vezes na pasta **blocks**.
+<img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/resourcepack/blocks_folder.png">
+
+## Criando a textura
+Agora que a estrutura de pastas foi criada, você pode colocar suas texturas personalizadas aqui. Um arquivo png também é fornecido para que você possa fazer o download e colocá-lo em sua pasta.
+<img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/resourcepack/dirt.png">
+* Abra um editor de imagens como o Paint3D, MS Paint ou Photoshop.
+* Na **barra de ferramentas**, selecione **Arquivo** e, em seguida, selecione Propriedades.
