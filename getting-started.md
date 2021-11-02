@@ -34,9 +34,10 @@ Para habilitar **Exibir Itens Ocultos**
 
 Conforme mostrado na imagem abaixo, existem vários subdiretórios localizados na pasta com.mojang.
 <img src="images/commojang.png">
-```
-Se você vir mais conteúdo nesta pasta do que o mostrado acima, não entre em pânico! Esta imagem mostra uma nova instalação do Minecraft.
-```
+<blockquote>
+<h3>Gorjeta</h3>
+<p>Se você vir mais conteúdo nesta pasta do que o mostrado acima, não entre em pânico! Esta imagem mostra uma nova instalação do Minecraft.</p>
+</blockquote>
 
 ## Comportamento, skins e pacotes de recursos
 Existem 3 pastas chamadas **behavior_packs**, **resource_packs** e **skin_packs**. Qualquer conteúdo personalizado que será adicionado ao Minecraft: Bedrock Edition virá na forma de um desses 3 pacotes.
@@ -47,9 +48,10 @@ Junto com as 3 pastas de pacotes, também existem versões de desenvolvimento de
 ## minecraftWorlds
 **minecraftWorlds** contém cada mundo que foi gerado na compilação atual do Minecraft. Cada pasta também conterá pastas de pacote de recursos e comportamento para conter quaisquer pacotes que possam estar em uso no mundo.
 
-```
-É recomendado que, ao instalar uma nova versão do Minecraft, você salve uma cópia desta pasta para usar como backup, a fim de evitar qualquer perda potencial de mundos do Minecraft que você possa ter.
-```
+<blockquote>
+<h3>Gorjeta</h3>
+<p>É recomendado que, ao instalar uma nova versão do Minecraft, você salve uma cópia desta pasta para usar como backup, a fim de evitar qualquer perda potencial de mundos do Minecraft que você possa ter.</p>
+</blockquote>
 
 ## Visual Studio Code
 Siga o link aqui para instalar o [Visual Studio Code](https://code.visualstudio.com/Download)
