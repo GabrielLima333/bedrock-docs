@@ -84,7 +84,7 @@ Com o arquivo de manifesto concluído, agora você pode começar a adicionar con
 
 ## Criando a textura
 Agora que a estrutura de pastas foi criada, você pode colocar suas texturas personalizadas aqui. Um arquivo png também é fornecido para que você possa fazer o download e colocá-lo em sua pasta.
-<img src="https://docs.microsoft.com/en-us/minecraft/creator/documents/media/resourcepack/dirt.png">
+<img src="images/dirt.png">
 * Abra um editor de imagens como o Paint3D, MS Paint ou Photoshop.
 * Na **barra de ferramentas**, selecione **Arquivo** e, em seguida, selecione **Propriedades**.
 * Defina a **largura** e a **altura** em **16 pixels** cada.
