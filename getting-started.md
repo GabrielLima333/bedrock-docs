@@ -62,7 +62,7 @@ Agora que seu ambiente de desenvolvimento está configurado, você pode começar
 
 Alternativamente, se você gostaria de começar com comandos no Minecraft, vá para Introdução aos blocos de comando para aprender como usar blocos de comando para encadear diferentes comandos.
 
-## Creators
+## Criadores
 <table>
   <tr>
     <td align="center">
